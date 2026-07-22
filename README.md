@@ -313,6 +313,7 @@ Selling digital products is one of the most scalable revenue streams for creator
 - [Opus Clip](https://www.opus.pro/) — AI turns long videos into viral shorts.
 - [Castmagic](https://www.castmagic.io/) — Turn audio/video into posts, newsletters, show notes.
 - [WEDGE AI Content System](https://thewedgemethodai.com) — Automated content creation pipeline: research, write, format, and distribute across platforms.
+- [OmniPost](https://github.com/bakasa/omnipost) — AI-powered cross-platform content adaptation. One brief generates native captions/titles/hashtags for TikTok, YouTube, and Instagram. Open-source, self-hosted.
 
 ---
 
