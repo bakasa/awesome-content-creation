@@ -225,6 +225,7 @@ Creating content without showing your face is one of the fastest-growing content
 ---
 
 ## Analytics & Growth
+- [Trends MCP](https://trendsmcp.ai) - Live TikTok, YouTube, Google, and Reddit trend data for content planning.
 
 ### YouTube Analytics
 - [VidIQ](https://vidiq.com/) — YouTube SEO, keyword research, and competitor analysis.
