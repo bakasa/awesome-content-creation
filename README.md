@@ -46,6 +46,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Runway](https://runwayml.com/) — AI-powered video generation, editing, and effects.
 - [Opus Clip](https://www.opus.pro/) — AI tool that turns long videos into viral short clips.
 - [Pictory](https://pictory.ai/) — Turn long-form content into short branded videos with AI.
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live trend data across 25+ platforms (Google, YouTube, TikTok, Reddit, Amazon, news sentiment, app downloads, more). MCP server + REST API. [Free tier](https://trendsmcp.ai) (100 req/mo).
 
 ### Stock Footage
 - [Pexels Videos](https://www.pexels.com/videos/) — Free stock video footage, no attribution required.
